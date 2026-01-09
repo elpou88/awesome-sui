@@ -65,7 +65,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 ### Client SDKs
 
 - Sui TypeScript SDK (Mysten Labs) - TypeScript modular library of tools for interacting with the Sui Blockchain.
-  - [GitHub](https://github.com/MystenLabs/ts-sdks/tree/main/packages/TypeScript) - [Documentation](https://sdk.mystenlabs.com/TypeScript) - [Further Information](details/sdk_sui_TypeScript.md)
+  - [GitHub](https://github.com/MystenLabs/ts-sdks/tree/main/packages/typescript) - [Documentation](https://sdk.mystenlabs.com/typescript) - [Further Information](details/sdk_sui_typescript.md)
 - Sui Kit(Scallop) - Toolkit for interacting with the Sui network in TypeScript.
   - [GitHub](https://github.com/scallop-io/sui-kit) - [Further Information](details/sdk_sui_kit_scallop.md)
 - Sui Rust SDK (Mysten Labs) - Rust SDK to interact with Sui Blockchain.
