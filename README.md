@@ -152,7 +152,7 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 - [zkLogin Demo using use-sui-zklogin by @pixelbrawlgames](https://pixelbrawlgames.github.io/use-sui-zklogin/)
 - [zkLogin Demo using react-zk-login-kit by @denyskozak](https://demo.react-sui-zk-login.com)
 
-#### RPC
+#### Misc
 
 - RPC Tools (Polymedia) - A webapp that lets users find the fastest RPC for their location.
   - [GitHub](https://github.com/juzybits/polymedia-rpcs) - [Documentation](https://rpcs.polymedia.app/)
