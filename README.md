@@ -23,6 +23,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 - [dApp Development](#dapp-development)
   - [dApp Toolkits](#dapp-toolkits)
   - [Smart Contract Toolkits](#smart-contract-toolkits)
+- [Betting \& Prediction Markets](#betting--prediction-markets)
 - [Indexers \& Data Services](#indexers--data-services)
 - [Explorers](#explorers)
 - [Oracles](#oracles)
@@ -183,6 +184,11 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
   - [Documentation](https://dubhe-docs.obelisk.build/dubhe/sui/cli)
 - [Sui Token CLI RPC](https://github.com/otter-sec/sui-token-gen-rpc) - A Rust-based RPC service for generating and verifying Sui token smart contracts effortlessly.
   - [Sui Token CLI Tool](https://github.com/otter-sec/sui-token-gen) - A Rust-based Command-Line Interface (CLI) tool designed to simplify the process of generating and verifying Sui token smart contracts.
+
+## Betting & Prediction Markets
+
+- SuiBets - On-chain sports & esports betting platform supporting SUI, SBETS, and USDsui. Immutable odds, instant settlement, zero KYC.
+  - [Homepage](https://suibets.replit.app) - [GitHub](https://github.com/elpou88/suibetsupdatedsecurity) - [Mainnet Contract](https://suiscan.xyz/mainnet/object/0x2e354642a3c00571832c03c42575587a0ca38cfe02e4f84cb3404cc9eab403d3)
 
 ## Indexers & Data Services
 
